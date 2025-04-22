@@ -27,7 +27,7 @@ Add this configuration to your Claude Desktop config file:
         "--directory",
         "/absolute/path/to/python-repl-server",
         "run",
-        "mcp_python"
+        "mcp-python"
       ]
     }
   }
